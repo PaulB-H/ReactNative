@@ -6,6 +6,10 @@ Creating a shopping list app in React Native
 
 <hr>
 
+# App launched on play store!
+
+[Link to App on Play Store](https://play.google.com/store/apps/details?id=com.paulsreactnativeshop)
+
 ### Prereqs:
 
 [React Native Docs - Setting up environment](https://reactnative.dev/docs/environment-setup 'React Native Docs - Setting up environment')
